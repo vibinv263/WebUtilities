@@ -1,2 +1,2 @@
 # WebUtilities
-Some utilities for reuse for my web wpplications
+Some reusable utilities for my web wpplications
